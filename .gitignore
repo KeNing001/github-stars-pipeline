@@ -1,3 +1,7 @@
+*.db
+data/tmp/
+
+
 __pycache__
 out/*
 .ipynb_checkpoints
