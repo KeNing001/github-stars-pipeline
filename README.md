@@ -1,4 +1,3 @@
-# GitHub Gems: Driving Open-Source Investments With Data
 ## Project Overview
 The primary purpose of this project is to build a streamlined solution for monitoring GitHub repository activity, enabling users to track key metrics such as repository growth, stars, and commits. This data engineering project is particularly valuable for developers assessing project popularity and open-source maintainers seeking insights into their projects' engagement. By providing an efficient platform for analyzing the open-source ecosystem, this project empowers users to make informed, data-driven decisions about repository activity.
 
@@ -33,3 +32,4 @@ These insights aim to provide a comprehensive understanding of repository dynami
 
 
 ## Models
+**SQL Database Format**: The data should be delivered in a structured format suitable for SQL databases, such as CSV or JSON, which can easily be imported and queried for analysis
