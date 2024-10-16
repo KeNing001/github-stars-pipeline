@@ -1,6 +1,0 @@
-github_stars:
-  target: dev
-  outputs: 
-    dev:
-      type: duckdb
-      path: '/Users/kekening/github-stars-pipeline/github_stars.db'

@@ -1,6 +1,7 @@
 *.db 
 data/tmp/
-
+tmp
+.history
 
 __pycache__
 out/*

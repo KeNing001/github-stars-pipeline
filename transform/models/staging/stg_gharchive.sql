@@ -4,4 +4,4 @@ SELECT
     repo.id AS repo_id, 
     repo.name AS repo_name, 
     created_at AS event_date 
-FROM {{ source("gharchive", "source_src_gharchive") }}
+FROM {{ source('gharchive', 'src_gharchive') }}
