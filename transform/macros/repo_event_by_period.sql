@@ -8,11 +8,8 @@ SELECT
 FROM
     {{ ref('stg_gharchive') }}
 WHERE
-    LOWER(event_type) = LOWER('{{ event_type }}')
-GROUP BY
-    repo_id,
-    repo_name,
-    DATE_TRUNC('{{ period }}', event_date) 
+    event_type = '{{ event_type }}'
+GROUP BY 1, 2, 3
 ORDER BY
     event_period 
 {%- endmacro %}
