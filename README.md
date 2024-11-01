@@ -33,3 +33,6 @@ These insights aim to provide a comprehensive understanding of repository dynami
 
 ## Models
 **SQL Database Format**: The data should be delivered in a structured format suitable for SQL databases, such as CSV or JSON, which can easily be imported and queried for analysis
+
+## Model Diagram
+![DBT Documentation](docs/dbt_dag.png)
