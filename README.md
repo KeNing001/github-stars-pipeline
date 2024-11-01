@@ -15,8 +15,6 @@ These insights aim to provide a comprehensive understanding of repository dynami
 
 ## Key Metrics
 
-![DBT Documentation](docs/dbt_dag.png)
-
 1. Growth rate of stars
 📈 Measures the increase in the number of stars a repository receives over time to gauge its popularity
 
@@ -35,3 +33,6 @@ These insights aim to provide a comprehensive understanding of repository dynami
 
 ## Models
 **SQL Database Format**: The data should be delivered in a structured format suitable for SQL databases, such as CSV or JSON, which can easily be imported and queried for analysis
+
+## Model Diagram
+![DBT Documentation](docs/dbt_dag.png)
