@@ -28,7 +28,6 @@ These insights aim to provide a comprehensive understanding of repository dynami
 3. Custom Analysis 
 📝 Provides tailored insights based on specific user-defined parameters or metrics relevant to individual repositories
 
-![User Specific](notebooks/Sample.png)
 ## Frequency 
 **Daily**: Daily updates are preferred to ensure that users have access to the most current metrics and trends for active monitoring of repository activity
 
