@@ -15,17 +15,18 @@ These insights aim to provide a comprehensive understanding of repository dynami
 
 ## Key Metrics
 
+![DBT Documentation](transform/target/docs/dbt_dag.png)
+
 1. Growth rate of stars
 📈 Measures the increase in the number of stars a repository receives over time to gauge its popularity
 
-
+![Star Growth](notebooks/Cumlative_Stars.png)
 2. Growth rate of commits
 🐾 Tracks the frequency of commits made to a repository, reflecting the activity level and development pace
 
-
+![Commit Growth](notebooks/Cumulative_Commit.png)
 3. Custom Analysis 
 📝 Provides tailored insights based on specific user-defined parameters or metrics relevant to individual repositories
-
 
 ## Frequency 
 **Daily**: Daily updates are preferred to ensure that users have access to the most current metrics and trends for active monitoring of repository activity
